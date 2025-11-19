@@ -6,7 +6,7 @@ public class App {
        
      a1.merkki = "Audi";
      a1.malli = "A5";
-     a1.bensanMaara = 50;
+     a1.bensanMaara = 30;
 
      a1.naytaTiedot();
 
