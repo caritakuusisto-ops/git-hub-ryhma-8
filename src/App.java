@@ -21,6 +21,10 @@ public class App {
      Auto a2 = new Auto("BMW", "320i", 30);
      a2.naytaTiedot();
 
+     Auto a3 = new Auto("Toytoa", "Yaris", 0);
+     a3.naytaTiedot();
+     a3.tankkaa(100);
+
     }
 } 
 
