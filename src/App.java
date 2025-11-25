@@ -11,11 +11,11 @@ public class App {
      a1.naytaTiedot();
 
      a1.kiihdyta();
-     System.out.println("Tiedot kiihdytyksen jälkeen");
+     System.out.println("Tiedot kiihdytyksen jälkeen:");
      a1.naytaTiedot();
 
      a1.tankkaa(5);
-     System.out.println("Tiedot tankkauksen jälkeen");
+     System.out.println("Tiedot tankkauksen jälkeen:");
      a1.naytaTiedot();
 
      Auto a2 = new Auto("BMW", "320i", 30);
