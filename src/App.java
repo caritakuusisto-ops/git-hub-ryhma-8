@@ -18,7 +18,7 @@ public class App {
      System.out.println("Tiedot tankkauksen jälkeen:");
      a1.naytaTiedot();
 
-     Auto a2 = new Auto("BMW", "320i", 30);
+     Auto a2 = new Auto("Tesla", "Model S", 30);
      a2.naytaTiedot();
 
      Auto a3 = new Auto("Toytoa", "Yaris", 0);
