@@ -25,6 +25,9 @@ public class App {
      a3.naytaTiedot();
      a3.tankkaa(100);
 
+     Auto a4 = new Auto("Dodge", "Viper VX", 30);
+     a4.naytaTiedot();
+
     }
 } 
 
